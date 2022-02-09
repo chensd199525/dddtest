@@ -64,7 +64,6 @@ public class Person implements Serializable {
     private BankAccount bankAccount;
 
 
-
     /*充血模型范例*/
     /**
      * 创建个人客户信息
