@@ -1,0 +1,663 @@
+[2022-02-08 23:39:21.522] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-08 23:39:22.077] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-08 23:42:39.154] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-08 23:42:39.653] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-08 23:44:26.897] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-08 23:44:27.374] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-08 23:47:57.586] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-08 23:47:58.079] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-08 23:51:28.350] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-08 23:51:28.847] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:30:18.002] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:30:18.505] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:31:17.607] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:31:18.085] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:34:01.755] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:34:02.248] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:36:57.992] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:36:58.493] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:37:55.748] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:37:56.223] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:37:56.665] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{POST [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{POST [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{POST [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 09:37:56.667] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 09:37:56.680] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 09:37:56.687] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 09:37:56.708] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:974   :Driver class com.mysql.cj.jdbc.Driver not found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2, trying classloader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 09:41:08.282] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:41:08.732] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:41:09.208] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{POST [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{POST [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{POST [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 09:41:09.210] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 09:41:09.223] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 09:41:09.233] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 09:41:09.251] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:974   :Driver class com.mysql.cj.jdbc.Driver not found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2, trying classloader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 09:42:29.526] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:42:30.001] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:42:30.431] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{POST [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{POST [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{POST [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 09:42:30.433] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 09:42:30.445] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 09:42:30.454] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 09:42:30.473] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:974   :Driver class org.apache.ibatis.datasource.unpooled.UnpooledDataSource.DriverProxy not found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2, trying classloader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 09:50:40.329] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:50:40.811] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:50:41.250] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{POST [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{POST [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{POST [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 09:50:41.252] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 09:50:41.264] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 09:50:41.272] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 09:53:03.014] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:53:03.501] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:53:03.915] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{POST [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{POST [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{POST [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 09:53:03.917] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 09:53:03.929] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 09:53:03.936] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 09:53:03.957] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 09:53:04.014] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 09:55:03.986] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:55:04.457] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:55:04.887] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{POST [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{POST [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{POST [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 09:55:04.890] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 09:55:04.902] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 09:55:04.910] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 09:55:04.932] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 09:55:04.981] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 09:58:40.547] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:58:41.046] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:58:41.496] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{POST [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{POST [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{POST [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 09:58:41.499] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 09:58:41.511] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 09:58:41.519] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 09:58:41.539] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 09:58:41.587] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 09:58:53.289] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:58:53.767] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:58:54.223] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{POST [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{POST [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{POST [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 09:58:54.227] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 09:58:54.240] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 09:58:54.251] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 09:58:54.274] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 09:58:54.330] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 09:59:52.320] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 09:59:52.785] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 09:59:53.243] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{POST [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{POST [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{POST [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+[2022-02-09 09:59:53.245] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 09:59:53.258] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 09:59:53.267] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 09:59:53.287] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 09:59:53.333] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:01:02.005] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:01:02.477] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:01:02.824] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:01:02.866] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:01:03.435] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{POST [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{POST [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{POST [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 10:01:03.437] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:01:03.451] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:01:03.459] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:04:34.587] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:04:35.059] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:04:35.399] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:04:35.433] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:04:35.975] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+[2022-02-09 10:04:35.978] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+	{ [/error]}: error(HttpServletRequest)
+[2022-02-09 10:04:35.989] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:04:35.997] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:06:57.192] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:06:57.664] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:06:58.011] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:06:58.047] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:06:58.589] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 10:06:58.591] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:06:58.604] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:06:58.614] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:09:22.795] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:09:26.630] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:09:27.077] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:09:27.521] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:09:27.566] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:09:28.140] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 10:09:28.143] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:09:28.156] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:09:28.167] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:12:46.087] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:12:46.606] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:12:47.036] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:12:47.079] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:12:47.657] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+[2022-02-09 10:12:47.659] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:12:47.672] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:12:47.682] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:13:38.937] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:13:39.437] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:13:39.843] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:13:39.886] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:13:40.480] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 10:13:40.482] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:13:40.498] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:13:40.509] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:21:41.592] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:21:42.055] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:21:42.422] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:21:42.457] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:21:43.044] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{ [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 10:21:43.047] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:21:43.060] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:21:43.069] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:22:34.577] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:22:35.058] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:22:35.400] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:22:35.437] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:22:35.979] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 10:22:35.981] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:22:35.992] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:22:36.001] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:24:09.152] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:24:09.637] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:24:10.003] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:24:10.041] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:24:10.647] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{ [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 10:24:10.650] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:24:10.669] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:24:10.678] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:26:28.827] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:26:29.324] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:26:29.679] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:26:29.718] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:26:30.263] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{ [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+[2022-02-09 10:26:30.265] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:26:30.276] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:26:30.285] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:26:39.467] DEBUG [,,] [http-nio-8081-exec-1] org.mybatis.spring.SqlSessionUtils:49   :Creating a new SqlSession
+[2022-02-09 10:26:39.470] DEBUG [,,] [http-nio-8081-exec-1] org.mybatis.spring.SqlSessionUtils:49   :SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@121dca6f] was not registered for synchronization because synchronization is not active
+[2022-02-09 10:26:39.500] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1103   :HikariPool-1 - configuration:
+[2022-02-09 10:26:39.502] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :allowPoolSuspension................................false
+[2022-02-09 10:26:39.502] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :autoCommit................................true
+[2022-02-09 10:26:39.502] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :catalog................................none
+[2022-02-09 10:26:39.503] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :connectionInitSql................................none
+[2022-02-09 10:26:39.503] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :connectionTestQuery................................none
+[2022-02-09 10:26:39.503] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :connectionTimeout................................30000
+[2022-02-09 10:26:39.503] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :dataSource................................none
+[2022-02-09 10:26:39.504] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :dataSourceClassName................................none
+[2022-02-09 10:26:39.504] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :dataSourceJNDI................................none
+[2022-02-09 10:26:39.504] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :dataSourceProperties................................{password=<masked>}
+[2022-02-09 10:26:39.504] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :driverClassName................................"com.mysql.jdbc.Driver"
+[2022-02-09 10:26:39.504] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :exceptionOverrideClassName................................none
+[2022-02-09 10:26:39.505] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :healthCheckProperties................................{}
+[2022-02-09 10:26:39.505] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :healthCheckRegistry................................none
+[2022-02-09 10:26:39.505] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :idleTimeout................................600000
+[2022-02-09 10:26:39.505] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :initializationFailTimeout................................1
+[2022-02-09 10:26:39.505] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :isolateInternalQueries................................false
+[2022-02-09 10:26:39.506] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :jdbcUrl................................jdbc:mysql://localhost:3306/ddd?useSSL=false
+[2022-02-09 10:26:39.506] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :keepaliveTime................................0
+[2022-02-09 10:26:39.506] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :leakDetectionThreshold................................0
+[2022-02-09 10:26:39.506] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :maxLifetime................................1800000
+[2022-02-09 10:26:39.506] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :maximumPoolSize................................10
+[2022-02-09 10:26:39.506] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :metricRegistry................................none
+[2022-02-09 10:26:39.507] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :metricsTrackerFactory................................none
+[2022-02-09 10:26:39.507] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :minimumIdle................................10
+[2022-02-09 10:26:39.507] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :password................................<masked>
+[2022-02-09 10:26:39.507] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :poolName................................"HikariPool-1"
+[2022-02-09 10:26:39.508] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :readOnly................................false
+[2022-02-09 10:26:39.508] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :registerMbeans................................false
+[2022-02-09 10:26:39.508] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :scheduledExecutor................................none
+[2022-02-09 10:26:39.508] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :schema................................none
+[2022-02-09 10:26:39.508] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :threadFactory................................internal
+[2022-02-09 10:26:39.508] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :transactionIsolation................................default
+[2022-02-09 10:26:39.509] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :username................................"root"
+[2022-02-09 10:26:39.509] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.HikariConfig:1135   :validationTimeout................................5000
+[2022-02-09 10:26:39.511] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.util.DriverDataSource:77   :Driver class com.mysql.jdbc.Driver found in Thread context class loader TomcatEmbeddedWebappClassLoader
+  context: ROOT
+  delegate: true
+----------> Parent Classloader:
+sun.misc.Launcher$AppClassLoader@18b4aac2
+
+[2022-02-09 10:26:39.604] DEBUG [,,] [http-nio-8081-exec-1] com.zaxxer.hikari.pool.HikariPool:565   :HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@e33df8b
+[2022-02-09 10:26:39.608] DEBUG [,,] [http-nio-8081-exec-1] org.mybatis.spring.transaction.SpringManagedTransaction:49   :JDBC Connection [HikariProxyConnection@1162083781 wrapping com.mysql.cj.jdbc.ConnectionImpl@e33df8b] will not be managed by Spring
+[2022-02-09 10:26:39.612] DEBUG [,,] [http-nio-8081-exec-1] com.example.dddtest.domain.person.repository.mapper.PersonMapper.selectList:137   :==>  Preparing: SELECT id,person_repository_interface,name,age,id_type,phone_number,address,bank_account FROM person
+[2022-02-09 10:26:39.630] DEBUG [,,] [http-nio-8081-exec-1] com.example.dddtest.domain.person.repository.mapper.PersonMapper.selectList:137   :==> Parameters: 
+[2022-02-09 10:26:39.641] DEBUG [,,] [http-nio-8081-exec-1] org.mybatis.spring.SqlSessionUtils:49   :Closing non transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@121dca6f]
+[2022-02-09 10:26:39.708] DEBUG [,,] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool:421   :HikariPool-1 - Pool stats (total=1, active=0, idle=1, waiting=0)
+[2022-02-09 10:26:39.713] DEBUG [,,] [HikariPool-1 connection adder] com.zaxxer.hikari.pool.HikariPool:729   :HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@552ab241
+[2022-02-09 10:26:39.716] DEBUG [,,] [HikariPool-1 connection adder] com.zaxxer.hikari.pool.HikariPool:729   :HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1417b87a
+[2022-02-09 10:26:39.719] DEBUG [,,] [HikariPool-1 connection adder] com.zaxxer.hikari.pool.HikariPool:729   :HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@25c94cd6
+[2022-02-09 10:26:39.722] DEBUG [,,] [HikariPool-1 connection adder] com.zaxxer.hikari.pool.HikariPool:729   :HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@74384735
+[2022-02-09 10:26:39.726] DEBUG [,,] [HikariPool-1 connection adder] com.zaxxer.hikari.pool.HikariPool:729   :HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34f2f6af
+[2022-02-09 10:26:39.729] DEBUG [,,] [HikariPool-1 connection adder] com.zaxxer.hikari.pool.HikariPool:729   :HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@70765fa4
+[2022-02-09 10:26:39.732] DEBUG [,,] [HikariPool-1 connection adder] com.zaxxer.hikari.pool.HikariPool:729   :HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@565eea8d
+[2022-02-09 10:26:39.734] DEBUG [,,] [HikariPool-1 connection adder] com.zaxxer.hikari.pool.HikariPool:729   :HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@472e36ba
+[2022-02-09 10:26:39.737] DEBUG [,,] [HikariPool-1 connection adder] com.zaxxer.hikari.pool.HikariPool:729   :HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@30aa3915
+[2022-02-09 10:26:39.737] DEBUG [,,] [HikariPool-1 connection adder] com.zaxxer.hikari.pool.HikariPool:421   :HikariPool-1 - After adding stats (total=10, active=0, idle=10, waiting=0)
+[2022-02-09 10:27:09.716] DEBUG [,,] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool:421   :HikariPool-1 - Pool stats (total=10, active=0, idle=10, waiting=0)
+[2022-02-09 10:27:09.716] DEBUG [,,] [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool:518   :HikariPool-1 - Fill pool skipped, pool is at sufficient level.
+[2022-02-09 10:27:34.467] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:27:34.993] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:27:35.346] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:27:35.383] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:27:35.929] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{ [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 10:27:35.931] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:27:35.943] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:27:35.950] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:33:56.755] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:33:57.228] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:33:57.587] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:33:57.628] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:33:58.176] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{ [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 10:33:58.178] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 10:33:58.190] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:33:58.199] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:34:52.716] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:34:53.235] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 10:34:53.597] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 10:34:53.634] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 10:34:54.184] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{ [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+[2022-02-09 10:34:54.186] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+	{ [/error]}: error(HttpServletRequest)
+[2022-02-09 10:34:54.198] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 10:34:54.207] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 10:35:32.317] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 10:35:32.843] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 11:05:40.620] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 11:05:41.103] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 11:05:41.513] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 11:05:41.555] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 11:05:42.127] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{ [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 11:05:42.129] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 11:05:42.141] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 11:05:42.151] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 11:17:16.038] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 11:17:16.517] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 11:17:16.864] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 11:17:16.900] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 11:17:17.444] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 11:17:17.446] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 11:17:17.458] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 11:17:17.466] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 11:28:59.895] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 11:29:00.389] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 11:29:00.799] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 11:29:00.842] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 11:29:01.413] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 11:29:01.416] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 11:29:01.428] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 11:29:01.437] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 11:30:39.805] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 11:30:40.316] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 11:30:40.692] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 11:30:40.727] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 11:30:41.267] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 11:30:41.270] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 11:30:41.281] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 11:30:41.290] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 11:33:08.222] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 11:33:08.742] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 11:33:09.101] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 11:33:09.138] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 11:33:09.695] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 11:33:09.698] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 11:33:09.710] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 11:33:09.720] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 11:37:50.846] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 11:37:51.308] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 11:37:51.655] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 11:37:51.692] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 11:37:52.225] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+[2022-02-09 11:37:52.227] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 11:37:52.238] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 11:37:52.247] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 11:40:07.729] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 11:40:08.248] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 11:40:08.600] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 11:40:08.637] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 11:40:09.160] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+[2022-02-09 11:40:09.162] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 11:40:09.173] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 11:40:09.182] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 11:44:48.968] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 11:44:49.468] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 11:44:49.813] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 11:44:49.847] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 11:44:50.376] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 11:44:50.379] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 11:44:50.391] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 11:44:50.400] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 13:51:46.374] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 13:51:46.871] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 13:51:47.263] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 13:51:47.299] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 13:51:47.905] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+[2022-02-09 13:51:47.907] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 13:51:47.920] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 13:51:47.929] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 13:53:22.340] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 13:53:22.818] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 13:53:23.192] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 13:53:23.237] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 13:53:23.827] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 13:53:23.829] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 13:53:23.841] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 13:53:23.849] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 14:01:43.038] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 14:01:43.511] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 14:01:43.869] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 14:01:43.909] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 14:01:44.448] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 14:01:44.450] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 14:01:44.463] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 14:01:44.471] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 14:02:13.775] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 14:02:14.249] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 14:02:14.610] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 14:02:14.645] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 14:02:15.188] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 14:02:15.190] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 14:02:15.200] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 14:02:15.208] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 14:03:23.421] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 14:03:23.879] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 14:03:24.230] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 14:03:24.267] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 14:03:24.801] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 14:03:24.803] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 14:03:24.814] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 14:03:24.822] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 14:04:32.701] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 14:04:33.160] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 14:04:33.507] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 14:04:33.543] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 14:04:34.091] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+[2022-02-09 14:04:34.093] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 14:04:34.105] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 14:04:34.112] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 14:07:09.196] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 14:07:09.686] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 14:07:10.061] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 14:07:10.095] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 14:07:10.629] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+[2022-02-09 14:07:10.631] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 14:07:10.642] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 14:07:10.651] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 14:09:00.370] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 14:09:00.837] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 14:09:01.186] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 14:09:01.226] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 14:09:01.829] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 14:09:01.830] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error]}: error(HttpServletRequest)
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+[2022-02-09 14:09:01.842] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 14:09:01.850] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
+[2022-02-09 14:11:57.172] DEBUG [,,] [main] com.example.dddtest.DddtestApplication:56   :Running with Spring Boot v2.6.3, Spring v5.3.15
+[2022-02-09 14:11:57.719] DEBUG [,,] [main] org.apache.ibatis.logging.LogFactory:105   :Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+[2022-02-09 14:11:58.081] DEBUG [,,] [main] com.zaxxer.hikari.HikariConfig:971   :Driver class com.mysql.jdbc.Driver found in Thread context class loader sun.misc.Launcher$AppClassLoader@18b4aac2
+[2022-02-09 14:11:58.134] DEBUG [,,] [main] com.baomidou.mybatisplus.extension.spring.MybatisSqlSessionFactoryBean:49   :Property 'mapperLocations' was not specified.
+[2022-02-09 14:11:58.735] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	c.e.d.i.f.PersonFacade:
+	{GET [/ddd/person/getPersonInfoAppService]}: getPersonInfoAppService()
+	{GET [/ddd/person/createPersonInfoAppService]}: createPersonInfoAppService()
+	{GET [/ddd/person/updatePersonInfoAppService]}: updatePersonInfoAppService()
+[2022-02-09 14:11:58.737] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:295   :
+	o.s.b.a.w.s.e.BasicErrorController:
+	{ [/error], produces [text/html]}: errorHtml(HttpServletRequest,HttpServletResponse)
+	{ [/error]}: error(HttpServletRequest)
+[2022-02-09 14:11:58.750] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:86   :'beanNameHandlerMapping' {}
+[2022-02-09 14:11:58.758] DEBUG [,,] [main] _org.springframework.web.servlet.HandlerMapping.Mappings:177   :'resourceHandlerMapping' {/webjars/**=ResourceHttpRequestHandler [classpath [META-INF/resources/webjars/]], /**=ResourceHttpRequestHandler [classpath [META-INF/resources/], classpath [resources/], classpath [static/], classpath [public/], ServletContext [/]]}
